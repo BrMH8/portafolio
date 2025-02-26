@@ -3,32 +3,98 @@
 }
 
 /*nav*/
+.nav-inicio{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #292424;
+}
+.nav-inicio:hover{
+    color: #585a5cd6;    
+}
+
+.nav-pro{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #292424;
+}
+.nav-pro:hover{
+    color: #585a5cd6;    
+}
+
+.nav-certifi{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #292424;
+}
+.nav-certifi:hover{
+    color: #585a5cd6;    
+}
+
+.nav-estudios{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #292424;
+}
+
+.nav-estudios:hover{
+    color: #585a5cd6;    
+}
+
+.nav-laboral{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #292424;
+}
+
+.nav-laboral:hover{
+    color: #585a5cd6;    
+}
+
+
 .navbar {
     background-color: #f0f0f0;
     display: flex;
     align-items: center;
     padding: 10px 20px;
+    border-radius: 20px;
+    
 }
 
 .logo {
     background-color: #e74c3c;
     color: white;
     padding: 10px 15px;
-    border-radius: 50%;
+    border-radius: 30px;
     margin-right: 20px;
 }
 
 .navbar a {
     text-decoration: none;
-    color: #333;
     margin-right: 20px;
+    margin-left: 50px;
 }
 
 .navbar a.contact-button {
     background-color: #e74c3c;
     color: white;
     padding: 10px 15px;
-    border-radius: 5px;
+    border-radius: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
 }
-
+.navbar a.contact-button:hover {
+    color: #191616;
+}  
 /*nav*/
+
+/*secciones*/
+section{
+    color: #ffffff;
+}
+/*secciones*/
