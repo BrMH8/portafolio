@@ -97,4 +97,59 @@
 section{
     color: #ffffff;
 }
+/*seccion 1*/
+.inicio {
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    margin: 0 10px;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.project img {
+    width: 200px; /* Ajusta el tamaño de las imágenes */
+    border-radius: 10px;
+}
+
+.about-me {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skills {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skill img {
+    width: 80px; /* Ajusta el tamaño de los iconos */
+    margin: 10px;
+}
+
+.scroll-down {
+    text-align: center;
+}
+
+.scroll-down img {
+    width: 40px;
+}
+/*seccion 1*/
 /*secciones*/
